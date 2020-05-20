@@ -3,9 +3,6 @@ import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.SocketException;
 
-/**
- * Created by eisak on 2018-12-17.
- */
 public class UDPclient {
 
     private DatagramSocket ds;

@@ -1,9 +1,6 @@
 import java.io.IOException;
 import java.net.*;
 
-/**
- * Created by eisak on 2018-12-17.
- */
 public class UDPserver {
 
     private DatagramSocket ds;
